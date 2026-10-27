@@ -1,0 +1,10 @@
+# Private working material, not published
+Motions/
+01_Homepage_Copy.md
+02_Strategy_Brand_And_Open_Questions.md
+.claude/
+
+node_modules/
+Thumbs.db
+.DS_Store
+*.log
